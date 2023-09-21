@@ -25,5 +25,4 @@ myImage.onclick = function() {
   } else {
     myImage.setAttribute("src", "images/firefox-icon.png");
   }
-  //console.log("画像をクリックしました");
 }
